@@ -1,2 +1,2 @@
-# DC1
+# DS1
 Class Studies Sample
